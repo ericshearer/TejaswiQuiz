@@ -149,4 +149,4 @@ Cards are used for practice questions and module selection. They feature a 3px w
 Progress bars are thick (16px height) with a 3px border. The "unfilled" portion is #222222, and the "filled" portion is a solid block of Orange (#FF5733). No rounded caps; everything remains rectangular.
 
 ### Chips & Tags
-Small labels used for subject categories (e.g., "ALGEBRA", "READING"). These use Space Mono, have a 2px border, and a transparent background. On "Select," they flip to a solid Orange background with black text.
+Small labels used for subject categories (e.g., "ALGEBRA", "READING"). These use Space Mono, have a 2px border, and a transparent background. On "Select," they flip to a solid Orange background with black text. 
